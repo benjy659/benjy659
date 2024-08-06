@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjy659" alt="benjy659" /></a> </p>
 
-- 🌱 I’m currently Completing **Business Information Technology Program**
+- 🌱 I’m currently Completing **Business Information Technology Program At Red River College Polytechnic **
 
 - 📫 How to reach me **benjaminomoregie685@gmail.com**
 
