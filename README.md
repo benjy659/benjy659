@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Benjamin Omoregie</h1>
+[<img src="https://raw.githubusercontent.com/benjy659/benjy659/master/profilegif.gif""/>)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+<!--
 <h3 align="center">A passionate software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjy659&label=Profile%20views&color=0e75b6&style=flat" alt="benjy659" /> </p>
